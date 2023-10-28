@@ -1,0 +1,19 @@
+* {
+    background-color: yellow;
+}
+
+.souDiv {
+    width: 100%;
+    background-color: rgb(235, 235, 233);
+    height: 100px;
+}
+
+.souDiv1 {
+    height: 100px;
+    background-color: brown;
+    width: 100px;
+}
+
+p.souDivClasse{
+    font-size: 28px;
+}
